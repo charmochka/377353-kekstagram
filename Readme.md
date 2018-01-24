@@ -2,6 +2,7 @@
 
 * Студент: [Александра Левицкая](https://up.htmlacademy.ru/javascript/12/user/377353).
 * Наставник: `Даниил Оношко`.
+* Ссылка на профиль: https://htmlacademy.ru/profile/id154426
 
 ---
 
